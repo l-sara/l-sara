@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @l-sara
-- 👀 I’m interested in humanitarian data sharing and intra-org collaboration to make the most of the data that is available
-- 🌱 I’m currently learning how to plumb! (plumber.R)
+- 👋 Hi, I’m Ladina!
+- 👀 I’m a data specialist working for various UN orgs and INGOs, such as the REACH Initiative, ICAP at Columbia University, UNOCHA, and currently UNHCR / EGRISS.
+- 🌱 I’m currently expanding my skills using Python, specifically for Data Science and Machine Learning Applications - I am super interested in researching and predicting climate change-induced migration!
 - 📫 Comment on my projects
 
 <!---
